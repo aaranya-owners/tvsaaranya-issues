@@ -40,7 +40,7 @@
       "response": "The sewage line concern impacts six villas and will be addressed directly with the respective villa owners. As per the agreement, the integration of sewage lines has already been clearly specified. There are no legal complications associated with this matter.",
       "timeline": "NA",
       "status": "pending",
-      "statusLabel": "To Be Confirmed",
+      "statusLabel": "TVS to provide an ETA today",
       "issueRef": null,
       "reversalFlag": false
     },
@@ -92,7 +92,7 @@
       "response": "To be deliberated",
       "timeline": "To be confirmed",
       "status": "pending",
-      "statusLabel": "To Be Confirmed",
+      "statusLabel": "TVS to provide an ETA today",
       "issueRef": 5,
       "reversalFlag": true,
       "reversalNote": "CRITICAL: This core safety issue has been raised since the very first email in July 2025. After 9 months and escalation to CSMO level, TVS still has no commitment — only 'to be deliberated'."
@@ -113,7 +113,7 @@
       "response": "Main Spine Road will be repaired",
       "timeline": "To be confirmed",
       "status": "pending",
-      "statusLabel": "To Be Confirmed",
+      "statusLabel": "TVS to provide an ETA today",
       "issueRef": null,
       "reversalFlag": false
     },
@@ -163,7 +163,7 @@
       "response": "TVS Emerald has already barricaded the swimming pool, further enhancements shall fall beyond our scope",
       "timeline": "Not Within Scope",
       "status": "rejected",
-      "statusLabel": "Not Within Scope",
+      "statusLabel": "TVS to provide a solution and ETA today",
       "issueRef": 9,
       "reversalFlag": true,
       "reversalNote": "REVERSAL: Association requested 8 feet barricading as agreed during the last meeting. TVS now claims further enhancements are beyond scope, contradicting the commitment made in a prior meeting."
@@ -174,7 +174,7 @@
       "response": "Regarding placement of Garbage Yard, kindly allow us some time to identify a suitable location",
       "timeline": "To be confirmed",
       "status": "pending",
-      "statusLabel": "To Be Confirmed",
+      "statusLabel": "TVS to provide an ETA today",
       "issueRef": null,
       "reversalFlag": false
     },
@@ -194,7 +194,7 @@
       "response": "As the land does not fall within our layout it is beyond our scope",
       "timeline": "Not Within Scope",
       "status": "rejected",
-      "statusLabel": "Not Within Scope",
+      "statusLabel": "TVS to provide a solution and ETA today",
       "issueRef": null,
       "reversalFlag": false
     },
@@ -265,7 +265,7 @@
       "response": "The roads are already gifted. However, we have approached the Panchayat Officials for a possibility of an alternate road. The matter is pending with Panchayat Officials.",
       "timeline": "Not Within Scope",
       "status": "rejected",
-      "statusLabel": "Not Within Scope",
+      "statusLabel": "TVS to provide a solution and ETA today",
       "issueRef": null,
       "reversalFlag": true,
       "reversalNote": "REVERSAL: The road was damaged by TVS's own construction vehicles. Photographic evidence showing 'project launch vs now' was shared as early as July 2025. TVS claims 'roads are already gifted' — essentially stating roads are no longer their responsibility despite being the cause of damage."
@@ -276,7 +276,7 @@
       "response": "The proposed gate enhancements and installation of a rotary gate were not committed and hence are not included within the current scope of work",
       "timeline": "Not Within Scope",
       "status": "rejected",
-      "statusLabel": "Not Within Scope",
+      "statusLabel": "TVS to provide a solution and ETA today",
       "issueRef": 11,
       "reversalFlag": true,
       "reversalNote": "REVERSAL: OSR gate security has been a recurring ask since July 2025 (first email) through multiple follow-ups. Association raised security concerns repeatedly. TVS now formally declares it 'not committed' — after 9 months of the concern being on record."
@@ -287,7 +287,7 @@
       "response": "The following was not committed, hence it falls beyond our scope",
       "timeline": "Not Within Scope",
       "status": "rejected",
-      "statusLabel": "Not Within Scope",
+      "statusLabel": "TVS to provide a solution and ETA today",
       "issueRef": 2,
       "reversalFlag": true,
       "reversalNote": "REVERSAL: TVS acknowledged unsecured OSR as a valid concern (Item #6 in this same response). Yet for OSR 2 fencing with rotary gates, they claim 'not committed, beyond scope' — contradicting their own partial concession on OSR security."
@@ -298,7 +298,7 @@
       "response": "As per the maintenance agreement, we have not agreed to any provisions for gardening equipment.",
       "timeline": "Not Within Scope",
       "status": "rejected",
-      "statusLabel": "Not Within Scope",
+      "statusLabel": "TVS to provide a solution and ETA today",
       "issueRef": null,
       "reversalFlag": false
     }

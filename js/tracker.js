@@ -81,14 +81,14 @@ function renderTrackerTable(items) {
 }
 
 function makePill(status, label) {
-  const map = {
-    completed: { cls: 'pill-completed', icon: '✅' },
-    scheduled: { cls: 'pill-scheduled', icon: '📅' },
-    pending:   { cls: 'pill-pending',   icon: '❓' },
-    rejected:  { cls: 'pill-rejected',  icon: '🚫' }
+  const defaults = {
+    completed: { cls: 'pill-completed', icon: '✅', text: 'Completed' },
+    scheduled: { cls: 'pill-scheduled', icon: '📅', text: 'Scheduled' },
+    pending:   { cls: 'pill-pending',   icon: '❓', text: 'TVS to provide an ETA today' },
+    rejected:  { cls: 'pill-rejected',  icon: '🚫', text: 'TVS to provide a solution and ETA today' }
   };
-  const s = map[status] || map.pending;
-  return `<span class="status-pill ${s.cls}">${s.icon} ${esc(label)}</span>`;
+  const s = defaults[status] || defaults.pending;
+  return `<span class="status-pill ${s.cls}">${s.icon} ${esc(label || s.text)}</span>`;
 }
 
 function applyFilter(filter) {
