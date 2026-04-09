@@ -1,0 +1,4 @@
+.DS_Store
+data/raw_*.txt
+extract_docs.py
+docs/

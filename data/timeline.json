@@ -1,0 +1,199 @@
+{
+  "emails": [
+    {
+      "id": "email-1",
+      "seq": 1,
+      "date": "2025-07-14",
+      "dateDisplay": "Jul 14, 2025",
+      "subject": "AARANYA PHASE-1 — THINGS TO BE RESOLVED ON IMMEDIATE BASIS",
+      "direction": "residents-to-tvs",
+      "directionLabel": "Residents → TVS",
+      "from": "Siva Reddy (Villa 157)",
+      "to": "Chandrasekaran E (Operations-CRM)",
+      "cc": "CRM Aaranya, Sakthivel M, Sriram Iyer (CEO), Rahul Gupta (CSMO), Anirudh G (CRM)",
+      "milestone": false,
+      "tags": ["first-email", "amenities", "security", "roads"],
+      "preview": "We have summarised everything in one page PDF. Raising concerns about pending amenities, road damage by heavy construction vehicles, security gaps (compound wall openings, uncontrolled construction workers), and swimming pool barrier.",
+      "bodyParagraphs": [
+        "Dear Sir, Please let us know the actions taken on the points discussed during our last meeting.",
+        "Amenities to be provided: Outdoor movie theatre, Sauna (M), Sauna (F), Clubhouse terrace amenities, Grocery store, Clinic. Note: RERA timeline is also getting over by this month.",
+        "Amenities that needs repair/to be built: Hammocks, Outdoor gym equipment in OSR 1, OSR 1 broken lights, All roads and manholes repair including the entrance road outside main gate (damaged by heavy vehicles used for construction — Google photos shared showing project launch vs now), Shobha RO water overflow, OSR 1 Entrance, Pond maintenance.",
+        "Security Concerns: (1) Closing all compound walls where opened — any unauthorised persons/animals can enter. Today it's animals and construction workers, tomorrow it can be thieves or anti-social elements. (2) No control on construction workers — no gate pass mechanism, workers climbing compound walls (video attached). (3) Restriction on movement of heavy vehicles inside the community.",
+        "Others: Swimming pool visible barrier to be created, security guard at swimming pool, water hardness report on MyGate daily.",
+        "MyGate complaints raised but no action taken: Street Dogs (closed quoting BlueCross), OSR 1 Maintenance (no action)."
+      ],
+      "images": [
+        "assets/images/timeline/email1_000.jpeg",
+        "assets/images/timeline/email1_001.jpeg",
+        "assets/images/timeline/email1_002.jpeg",
+        "assets/images/timeline/email1_003.jpeg",
+        "assets/images/timeline/email1_004.jpeg",
+        "assets/images/timeline/email1_005.jpeg",
+        "assets/images/timeline/email1_006.jpeg"
+      ],
+      "escalationLevel": 1,
+      "escalationNote": "Sent to field CRM (Chandrasekaran, Anirudh) and operations (Sakthivel). Also CC'd CEO Sriram Iyer and CSMO Rahul Gupta."
+    },
+    {
+      "id": "email-2",
+      "seq": 2,
+      "date": "2025-07-17",
+      "dateDisplay": "Jul 17, 2025",
+      "subject": "Re: AARANYA PHASE-1 — THINGS TO BE RESOLVED ON IMMEDIATE BASIS (Follow-up)",
+      "direction": "residents-to-tvs",
+      "directionLabel": "Residents → TVS",
+      "from": "Dinesh KR (Villa 148)",
+      "to": "Chandrasekaran E, CRM Aaranya, Sakthivel M, Sriram Iyer (CEO), Rahul Gupta (CSMO), Anirudh G (CRM)",
+      "cc": "Suga, Vicky Vignesh, R Srinivasan, Esthak Pravin, Deena Dayalan, Rajagopalan Krishnamoorthy, Murali Raghunathan, Siva Reddy",
+      "milestone": false,
+      "tags": ["follow-up", "no-response", "disappointment"],
+      "preview": "It is extremely disappointing that there has been no response to the detailed email sent earlier. Top management is fully accountable. Issues affect safety, security, and livability of Phase 1 & 2.",
+      "bodyParagraphs": [
+        "Dear Team, It is extremely disappointing that there has been no response to the detailed email sent earlier, which clearly outlined the pending amenities, repairs, and serious security concerns within our community.",
+        "These issues are not just minor inconveniences — many of them affect the safety, security, and livability of Aaranya Phase 1 & 2. Despite repeated follow-ups and assurances during meetings, we are yet to see concrete action or even a basic acknowledgment of the concerns raised.",
+        "We would like to highlight that the responsibility for addressing these issues doesn't end with the marketing team or field staff — top management is fully accountable for ensuring that commitments made to residents are fulfilled and that the community remains safe and well-maintained.",
+        "We urge you to take immediate action and share a clear plan with timelines for resolution of all points mentioned in the original email. The community expects transparency, accountability, and commitment from TVS."
+      ],
+      "images": [],
+      "escalationLevel": 1,
+      "escalationNote": "Follow-up after 3 days of silence. No response received from TVS on the Jul 14 email."
+    },
+    {
+      "id": "email-3",
+      "seq": 3,
+      "date": "2025-08-12",
+      "dateDisplay": "Aug 12, 2025",
+      "subject": "Immediate Attention Required – TVS Aaranya Community Concerns & Meeting Request",
+      "direction": "residents-to-tvs",
+      "directionLabel": "Association → TVS",
+      "from": "Aaranya Owners Association (Dinesh KR, Villa 148 — Secretary)",
+      "to": "Anirudh G (CRM), Sakthivel M (Operations), CRM Aaranya",
+      "cc": "Suga, Dinesh KR, Siva Reddy, Aravind, Vicky Vignesh, Sagayaraj, R Srinivasan",
+      "milestone": true,
+      "milestoneNote": "Association formally established with 7 elected members. Dinesh KR designated as single point of contact.",
+      "tags": ["association-formed", "formal-notice", "amenities", "security", "meeting-request"],
+      "preview": "Association formally established. 7 members nominated: Sukabrammam (President), Dinesh KR (Secretary), Siva Reddy (Treasurer) and 4 committee members. Comprehensive list of pending issues submitted with request for urgent meeting.",
+      "bodyParagraphs": [
+        "Hi Anirudh, As discussed, I will be the single point of contact from the TVS side for all community-related matters.",
+        "As per Chandrashekar's request, the following Phase 1 members are ready to be part of the association: (1) Sukabrammam – Villa 147 – President; (2) Dinesh KR – Villa 148 – Secretary; (3) Siva Reddy – Villa 157 – Treasurer; (4) Aravind – Villa 166 – Joint Secretary; (5) Vignesh – Villa 93 – Committee Member; (6) Sagayaraj – Villa 67 – Committee Member; (7) Srinivasan – Villa 68 – Committee Member. A common association email has been created: aaranya.owners.association@gmail.com",
+        "Amenities to be Provided: Outdoor movie theatre, Sauna (Male & Female), Clubhouse terrace amenities, Grocery store, Clinic, Biometric access to clubhouse.",
+        "Amenities Requiring Immediate Repair/Construction: Hammocks, Outdoor gym equipment, OSR 1 broken lights, All roads and manhole repairs (including entrance road damaged by heavy construction vehicles — evidence shared earlier), Shobha RO water overflow, OSR 1 entrance, Pond maintenance, Basketball court.",
+        "Security Concerns – Require Immediate Resolution: (1) Close all compound wall openings — current sections have zero security. (2) Construction worker access control — no gate pass system, workers climbing walls (video attached). This contradicts the 'secured community' commitment. (3) No restriction on heavy vehicle movement — serious safety hazard.",
+        "Other Urgent Items: Swimming pool visible barrier and dedicated security guard, daily water hardness report on MyGate.",
+        "MyGate Complaints – No Action Taken: Street dogs (closed without resolution), OSR 1 maintenance, OSR3 maintenance (non-working lights, grass uncut), Reptiles mainly snakes, Roads dug but not relaid.",
+        "Community Requirements: Blueprint and entry points, surrounding layouts and stormwater plan, clarification on joint vs separate association (we will not accept two different associations where roads and OSR are shared), new Bye-laws.",
+        "We request an in-person meeting at the earliest. Residents have been raising several of these concerns for months without satisfactory resolution."
+      ],
+      "images": [
+        "assets/images/timeline/email3_000.jpeg",
+        "assets/images/timeline/email3_001.jpeg",
+        "assets/images/timeline/email3_002.jpeg",
+        "assets/images/timeline/email3_003.jpeg",
+        "assets/images/timeline/email3_004.jpeg"
+      ],
+      "escalationLevel": 2,
+      "escalationNote": "Formal association email now in use. CCs include full committee. Still addressed to field CRM."
+    },
+    {
+      "id": "email-4",
+      "seq": 4,
+      "date": "2025-11-04",
+      "dateDisplay": "Nov 4, 2025",
+      "subject": "Immediate Attention Required: Flooding and Unacceptable Road Condition at TVS Aaranya Entrance",
+      "direction": "residents-to-tvs",
+      "directionLabel": "Association → TVS",
+      "from": "Aaranya Owners Association (Dinesh KR, Villa 148)",
+      "to": "Rahul Gupta (CSMO), Anirudh G (CRM), Sahil Suhas Chavan (CRM Head), CRM Aaranya, Sundaramoorthy, Sakthivel M, Suganya Gokul (CRM)",
+      "cc": "Rajagopalan Krishnamoorthy, Vignesh Vicky, Suga, Dinesh KR, Siva Reddy, Sagayaraj",
+      "milestone": false,
+      "tags": ["flooding", "road-damage", "entrance-road", "local-interference"],
+      "preview": "The entrance road has been flooded for 2 weeks. Partial road work stopped midway by local interference. Current state worse than before — uneven, dug up, waterlogged.",
+      "bodyParagraphs": [
+        "Dear TVS Team, This is to bring to your urgent attention the extremely poor and unsafe condition of the road outside the TVS Aaranya entrance. The area has been flooded for the past two weeks, making entry and exit extremely difficult for residents, visitors, and school vehicles.",
+        "Last week, a temporary workaround was attempted but removed on the same day. Today, partial road work was carried out; however, the execution has been stopped midway by local interference and left incomplete and flooded. The current state of the road is far worse than before — uneven, dug up, and completely waterlogged.",
+        "We have made continuous efforts over several months, coordinating with TVS representatives and local authorities to ensure this road was finally taken up for repair. It is therefore deeply disappointing to see such poor quality of execution and lack of follow-through to completion.",
+        "We request you to ensure no further disruption from local parties and take ownership of completing the work as per TVS quality standards. We trust that senior management will take this matter seriously and ensure the situation is rectified without further delay."
+      ],
+      "images": [
+        "assets/images/timeline/email4_000.jpeg",
+        "assets/images/timeline/email4_001.jpeg"
+      ],
+      "escalationLevel": 3,
+      "escalationNote": "Escalated directly to CSMO Rahul Gupta and CRM Head Sahil. No longer just field CRM."
+    },
+    {
+      "id": "email-5",
+      "seq": 5,
+      "date": "2026-03-28",
+      "dateDisplay": "Mar 28, 2026",
+      "subject": "Aaranya Association — Pending Issues & Meeting Request",
+      "direction": "tvs-to-residents",
+      "directionLabel": "TVS → Association",
+      "from": "Rahul Gupta (CSMO, TVS Emerald)",
+      "to": "Aaranya Owners Association",
+      "cc": "Sahil Suhas Chavan (CRM Head), Prabanjani S (CRM), Suganya Gokul (CRM)",
+      "milestone": true,
+      "milestoneNote": "40+ owners physically visited TVS corporate office. CSMO Rahul Gupta personally acknowledged all issues. First time TVS leadership directly engaged in writing.",
+      "tags": ["corporate-office-visit", "rahul-gupta", "milestone", "40-owners"],
+      "preview": "Today, 40+ owners visited our corporate office. We have noted all the issues highlighted during the discussion. Will revert with a plan by April 2, 2026 and confirm a date for a joint meeting.",
+      "bodyParagraphs": [
+        "Dear Members of Aaranya Association, Today, 40+ owners visited our corporate office. We have noted all the issues highlighted during the discussion, and the same has been attached for your reference.",
+        "We will go through the issues highlighted in the attached document and revert with a plan, as applicable, after reviewing and internally discussing the same by 2nd April 2026.",
+        "We will also confirm a date for a joint meeting with the Association members, along with the FM team, Operations team, Sahil Chavan, and myself.",
+        "Regards | Rahul Gupta"
+      ],
+      "images": [
+        "assets/images/timeline/email56_000.png",
+        "assets/images/timeline/email56_001.png"
+      ],
+      "escalationLevel": 4,
+      "escalationNote": "CSMO Rahul Gupta responds directly. First written response from senior TVS leadership. Represents peak escalation in the 9-month timeline."
+    },
+    {
+      "id": "email-6",
+      "seq": 6,
+      "date": "2026-04-02",
+      "dateDisplay": "Apr 2, 2026",
+      "subject": "RE: Aaranya Association — Pending Issues & Meeting Request (29-Point Response)",
+      "direction": "tvs-to-residents",
+      "directionLabel": "TVS → Association",
+      "from": "Suganya Gokul (CRM Associations, TVS Emerald)",
+      "to": "Aaranya Owners Association",
+      "cc": "Sahil Suhas Chavan (CRM Head), CEO EscalationDesk, Rahul Gupta (CSMO), Prabanjani S (CRM), Suganya Gokul (CRM)",
+      "milestone": true,
+      "milestoneNote": "Most detailed TVS response to date. 29-point table. Meeting confirmed for Apr 11, 2026 at Aaranya Clubhouse with Rahul Gupta.",
+      "tags": ["formal-response", "29-points", "tvs-response", "meeting-confirmed", "apr-11"],
+      "preview": "Point-wise response to 29 concerns raised on Mar 28, 2026. Meeting confirmed for April 11, 2026 at Aaranya Clubhouse with Rahul Gupta. Several items marked 'Not Within Scope' including swimming pool barricading, OSR gate retrofit, and road damage from construction vehicles.",
+      "bodyParagraphs": [
+        "Dear Association Members, Greetings from TVS Emerald. With reference to the below trail mail, please find the point-wise response to the queries raised by the Association on 28th March 2026.",
+        "Kindly note that, as committed, the meeting will be held on 11th April 2026 at the Aaranya Clubhouse at around 10:00 AM with Mr. Rahul Gupta."
+      ],
+      "images": [],
+      "hasTable": true,
+      "tableRef": "tracker",
+      "escalationLevel": 4,
+      "escalationNote": "Response routed through CEO EscalationDesk. First official 29-point documented response from TVS."
+    }
+  ],
+  "people": {
+    "tvs": [
+      { "name": "Sriram Iyer", "role": "Director & CEO, TVS Emerald" },
+      { "name": "Rahul Gupta", "role": "CSMO (Chief Sales & Marketing Officer)" },
+      { "name": "Sahil Suhas Chavan", "role": "CRM Head" },
+      { "name": "Anirudh G", "role": "CRM" },
+      { "name": "Chandrasekaran E", "role": "Operations-CRM" },
+      { "name": "Sakthivel M", "role": "Operations" },
+      { "name": "Suganya Gokul", "role": "CRM Associations" },
+      { "name": "Prabanjani S", "role": "CRM" }
+    ],
+    "association": [
+      { "name": "Sukabrammam", "villa": "Villa 147", "role": "President" },
+      { "name": "Dinesh KR", "villa": "Villa 148", "role": "Secretary (Primary Contact)" },
+      { "name": "Siva Reddy", "villa": "Villa 157", "role": "Treasurer" },
+      { "name": "Aravind", "villa": "Villa 166", "role": "Joint Secretary / Committee Member" },
+      { "name": "Vicky Vignesh", "villa": "Villa 93", "role": "Committee Member" },
+      { "name": "Sagayaraj", "villa": "Villa 67", "role": "Committee Member" },
+      { "name": "R Srinivasan", "villa": "Villa 68", "role": "Committee Member" }
+    ]
+  }
+}

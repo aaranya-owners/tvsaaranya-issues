@@ -1,0 +1,313 @@
+{
+  "responseDate": "2026-04-02",
+  "responseDateDisplay": "April 2, 2026",
+  "from": "Suganya Gokul, CRM Associations, TVS Emerald",
+  "meetingConfirmed": "April 11, 2026 at 10:00 AM, Aaranya Clubhouse, with Rahul Gupta",
+  "items": [
+    {
+      "slNo": 1,
+      "concern": "STP Odour",
+      "response": "The issue will be checked with the STP vendor and necessary corrective measures will be undertaken if required.",
+      "timeline": "22-04-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": null,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 2,
+      "concern": "Water Quality — WTP only reduces hardness, not TDS; residents seek more clarity on intel level",
+      "response": "TVS Emerald has not made any specific commitments on TDS or RO levels. The TDS levels are maintained within permissible limits. All WTP-related commitments and maintenance records will be documented, and a joint inspection will be scheduled by 22‑04‑2026 to close pending items.",
+      "timeline": "Joint inspection by 22-04-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": null,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 3,
+      "concern": "Drainage — Stormwater drains need constant monitoring for stagnation, individual drain lines to be reviewed",
+      "response": "As it is a part of routine Maintenance. The cost of maintaining will be deducted from maintenance charges.",
+      "timeline": "07-05-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": 1,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 4,
+      "concern": "Sewage Lines",
+      "response": "The sewage line concern impacts six villas and will be addressed directly with the respective villa owners. As per the agreement, the integration of sewage lines has already been clearly specified. There are no legal complications associated with this matter.",
+      "timeline": "NA",
+      "status": "pending",
+      "statusLabel": "To Be Confirmed",
+      "issueRef": null,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 5,
+      "concern": "Unmaintained Bushes",
+      "response": "The area has already been cleaned.",
+      "timeline": "Completed",
+      "status": "completed",
+      "statusLabel": "Completed",
+      "issueRef": null,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 6,
+      "concern": "Unsecured OSR",
+      "response": "Picket fencing has been completed in OSR‑1 and OSR‑3. As this is not a gated society, there is no commitment for a boundary wall. Picket fencing will be provided for OSR 2 as a demarcation.",
+      "timeline": "15-05-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": 2,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 7,
+      "concern": "Man-made pond — Civil rework required and the area needs cleaning",
+      "response": "Debris clearing activities will be carried out as part of maintenance.",
+      "timeline": "21-04-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": 3,
+      "reversalFlag": false,
+      "note": "Civil rework (plastering, new brickwork) not addressed — only debris clearing mentioned."
+    },
+    {
+      "slNo": 8,
+      "concern": "Basement Soil Pile up Near Phase 3 and Inadequate compound wall Height",
+      "response": "The accumulated soil will be disposed off appropriately.",
+      "timeline": "17-04-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": 4,
+      "reversalFlag": false,
+      "note": "Only soil disposal addressed. Compound wall height concern (inadequate height) not addressed."
+    },
+    {
+      "slNo": 9,
+      "concern": "Perimeter Security breach — compound wall height",
+      "response": "To be deliberated",
+      "timeline": "To be confirmed",
+      "status": "pending",
+      "statusLabel": "To Be Confirmed",
+      "issueRef": 5,
+      "reversalFlag": true,
+      "reversalNote": "CRITICAL: This core safety issue has been raised since the very first email in July 2025. After 9 months and escalation to CSMO level, TVS still has no commitment — only 'to be deliberated'."
+    },
+    {
+      "slNo": 10,
+      "concern": "Kurinji Street",
+      "response": "Paver blocks will be refilled and restored",
+      "timeline": "22-04-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": 7,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 11,
+      "concern": "Road Damage — Main spine road",
+      "response": "Main Spine Road will be repaired",
+      "timeline": "To be confirmed",
+      "status": "pending",
+      "statusLabel": "To Be Confirmed",
+      "issueRef": null,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 12,
+      "concern": "Security Gaps — Stray Dogs Issue",
+      "response": "PVC mesh installation will be provided",
+      "timeline": "07-05-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": 6,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 13,
+      "concern": "Pest Issues — Paved block installations on Kurinji Street, Cherry Street and in Phase 2",
+      "response": "Paver blocks will be refilled and restored",
+      "timeline": "22-04-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": 7,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 14,
+      "concern": "Amla Street — maintenance required",
+      "response": "Maintenance materials will be relocated to ensure safety and cleanliness.",
+      "timeline": "14-04-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": null,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 15,
+      "concern": "Cherry Street — cleaning required due to apartment compound wall work; garden and pathway have been damaged",
+      "response": "Cherry Street Maintenance will done as per schedule",
+      "timeline": "21-04-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": 8,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 16,
+      "concern": "Barricading of swimming pool",
+      "response": "TVS Emerald has already barricaded the swimming pool, further enhancements shall fall beyond our scope",
+      "timeline": "Not Within Scope",
+      "status": "rejected",
+      "statusLabel": "Not Within Scope",
+      "issueRef": 9,
+      "reversalFlag": true,
+      "reversalNote": "REVERSAL: Association's Fix Required document explicitly states '6 feet barricading as agreed during last meet.' TVS now claims further enhancements are beyond scope, contradicting the commitment made in a prior meeting."
+    },
+    {
+      "slNo": 17,
+      "concern": "Garbage yard location",
+      "response": "Regarding placement of Garbage Yard, kindly allow us some time to identify a suitable location",
+      "timeline": "To be confirmed",
+      "status": "pending",
+      "statusLabel": "To Be Confirmed",
+      "issueRef": null,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 18,
+      "concern": "Clarification on ownership and future development of the land where the current sales office containers and pantry area containers are installed",
+      "response": "We will get back with clarification regarding the same",
+      "timeline": "13-04-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": null,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 19,
+      "concern": "The trench mechanism outside land (near police booth) has been discharging water onto the road since the last monsoon, and this water flows into Aaranya",
+      "response": "As the land does not fall within our layout it is beyond our scope",
+      "timeline": "Not Within Scope",
+      "status": "rejected",
+      "statusLabel": "Not Within Scope",
+      "issueRef": null,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 20,
+      "concern": "Hammocks not up to standard",
+      "response": "Hammock stands will be rectified",
+      "timeline": "12-04-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": null,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 21,
+      "concern": "Outdoor Movie Theatre — Location of amenity per brochure is OSR; status of implementation",
+      "response": "We will provide a screen and a projector",
+      "timeline": "07-05-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": null,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 22,
+      "concern": "OSR 3 Near Phase 3",
+      "response": "Will be completed as per plan",
+      "timeline": "27-04-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": null,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 23,
+      "concern": "Soil Dump near phase 3",
+      "response": "The accumulated soil will be disposed off",
+      "timeline": "21-04-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": 4,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 24,
+      "concern": "Compound wall gap near pond area to be closed — localities moving for fishing in the pond",
+      "response": "Cleaning of construction debris has already been initiated and will be completed as per the timeline",
+      "timeline": "19-04-2026",
+      "status": "scheduled",
+      "statusLabel": "Scheduled",
+      "issueRef": 10,
+      "reversalFlag": false,
+      "note": "Debris clearing only mentioned. Compound wall construction (6 ft wall to close gap) not committed."
+    },
+    {
+      "slNo": 25,
+      "concern": "Snake Awareness and snake bite protocol to be conducted",
+      "response": "Snake Catching Activity was conducted on 1st of April. A comprehensive Snake awareness guideline has been attached.",
+      "timeline": "Completed",
+      "status": "completed",
+      "statusLabel": "Completed",
+      "issueRef": null,
+      "reversalFlag": false
+    },
+    {
+      "slNo": 26,
+      "concern": "Lifestyle Construction Vehicle road damage to be addressed",
+      "response": "The roads are already gifted. However, we have approached the Panchayat Officials for a possibility of an alternate road. The matter is pending with Panchayat Officials.",
+      "timeline": "Not Within Scope",
+      "status": "rejected",
+      "statusLabel": "Not Within Scope",
+      "issueRef": null,
+      "reversalFlag": true,
+      "reversalNote": "REVERSAL: The road was damaged by TVS's own construction vehicles. Photographic evidence showing 'project launch vs now' was shared as early as July 2025. TVS claims 'roads are already gifted' — essentially stating roads are no longer their responsibility despite being the cause of damage."
+    },
+    {
+      "slNo": 27,
+      "concern": "OSR 1 — Current gate should retrofit spring type so that it automatically closes, prevent cattle entry. Northern side should have one rotary gate for Phase 2 access near Kukum Street.",
+      "response": "The proposed gate enhancements and installation of a rotary gate were not committed and hence are not included within the current scope of work",
+      "timeline": "Not Within Scope",
+      "status": "rejected",
+      "statusLabel": "Not Within Scope",
+      "issueRef": 11,
+      "reversalFlag": true,
+      "reversalNote": "REVERSAL: OSR gate security has been a recurring ask since July 2025 (first email) through multiple follow-ups. Association raised security concerns repeatedly. TVS now formally declares it 'not committed' — after 9 months of the concern being on record."
+    },
+    {
+      "slNo": 28,
+      "concern": "OSR 2 should have park fencing same as OSR 1, with two rotary gates accessible from Kurinji St and Pungai St",
+      "response": "The following was not committed, hence it falls beyond our scope",
+      "timeline": "Not Within Scope",
+      "status": "rejected",
+      "statusLabel": "Not Within Scope",
+      "issueRef": 2,
+      "reversalFlag": true,
+      "reversalNote": "REVERSAL: TVS acknowledged unsecured OSR as a valid concern (Item #6 in this same response). Yet for OSR 2 fencing with rotary gates, they claim 'not committed, beyond scope' — contradicting their own partial concession on OSR security."
+    },
+    {
+      "slNo": 29,
+      "concern": "Non-availability of gardening equipment",
+      "response": "As per the maintenance agreement, we have not agreed to any provisions for gardening equipment.",
+      "timeline": "Not Within Scope",
+      "status": "rejected",
+      "statusLabel": "Not Within Scope",
+      "issueRef": null,
+      "reversalFlag": false
+    }
+  ],
+  "summary": {
+    "total": 29,
+    "completed": 2,
+    "scheduled": 18,
+    "pending": 4,
+    "rejected": 5
+  }
+}
