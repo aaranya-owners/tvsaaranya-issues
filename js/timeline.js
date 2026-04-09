@@ -147,6 +147,11 @@ function renderPeople(people) {
   assocList.innerHTML = people.association.map(p =>
     `<li><strong>${escapeHtml(p.name)}</strong>, ${escapeHtml(p.villa)} — <em>${escapeHtml(p.role)}</em></li>`
   ).join('');
+
+  if (people.associationSuffix) {
+    const suffix = document.getElementById('assoc-people-suffix');
+    if (suffix) suffix.textContent = people.associationSuffix;
+  }
 }
 
 function toggleEmailBody(btn, id) {

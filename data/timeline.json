@@ -183,14 +183,13 @@
       { "name": "Sahil Suhas Chavan", "role": "CRM Head" },
       { "name": "Suganya Gokul", "role": "CRM Associations" }
     ],
-    "associationLabel": "Aaranya Owners Association — Core Committee Members & Owners",
+    "associationLabel": "Aaranya Owners Association",
+    "associationSuffix": "& Aaranya Core Committee Members and Owners",
     "association": [
       { "name": "Dinesh KR", "villa": "Villa 148", "role": "President (Primary Contact)" },
       { "name": "Siva Reddy", "villa": "Villa 157", "role": "Treasurer" },
-      { "name": "Aravind", "villa": "Villa 166", "role": "Core Committee Member" },
       { "name": "Vicky Vignesh", "villa": "Villa 93", "role": "Core Committee Member" },
-      { "name": "Sagayaraj", "villa": "Villa 67", "role": "Core Committee Member" },
-      { "name": "R Srinivasan", "villa": "Villa 68", "role": "Core Committee Member" }
+      { "name": "Sagayaraj", "villa": "Villa 67", "role": "Core Committee Member" }
     ]
   }
 }
