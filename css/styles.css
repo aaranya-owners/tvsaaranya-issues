@@ -630,7 +630,7 @@ body {
   text-transform: uppercase;
   letter-spacing: 0.04em;
   position: sticky;
-  top: 60px;
+  top: 0;
   white-space: nowrap;
 }
 
