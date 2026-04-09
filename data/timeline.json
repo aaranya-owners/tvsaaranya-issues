@@ -66,16 +66,16 @@
       "subject": "Immediate Attention Required – TVS Aaranya Community Concerns & Meeting Request",
       "direction": "residents-to-tvs",
       "directionLabel": "Association → TVS",
-      "from": "Aaranya Owners Association (Dinesh KR, Villa 148 — Secretary)",
+      "from": "Aaranya Owners Association (Dinesh KR, Villa 148 — President)",
       "to": "Anirudh G (CRM), Sakthivel M (Operations), CRM Aaranya",
       "cc": "Suga, Dinesh KR, Siva Reddy, Aravind, Vicky Vignesh, Sagayaraj, R Srinivasan",
       "milestone": true,
-      "milestoneNote": "Association formally established with 7 elected members. Dinesh KR designated as single point of contact.",
+      "milestoneNote": "Association formally established. Dinesh KR is President and primary point of contact.",
       "tags": ["association-formed", "formal-notice", "amenities", "security", "meeting-request"],
-      "preview": "Association formally established. 7 members nominated: Sukabrammam (President), Dinesh KR (Secretary), Siva Reddy (Treasurer) and 4 committee members. Comprehensive list of pending issues submitted with request for urgent meeting.",
+      "preview": "Association formally established. Core committee: Dinesh KR (President), Siva Reddy (Treasurer) and 4 committee members. Comprehensive list of pending issues submitted with request for urgent meeting.",
       "bodyParagraphs": [
         "Hi Anirudh, As discussed, I will be the single point of contact from the TVS side for all community-related matters.",
-        "As per Chandrashekar's request, the following Phase 1 members are ready to be part of the association: (1) Sukabrammam – Villa 147 – President; (2) Dinesh KR – Villa 148 – Secretary; (3) Siva Reddy – Villa 157 – Treasurer; (4) Aravind – Villa 166 – Joint Secretary; (5) Vignesh – Villa 93 – Committee Member; (6) Sagayaraj – Villa 67 – Committee Member; (7) Srinivasan – Villa 68 – Committee Member. A common association email has been created: aaranya.owners.association@gmail.com",
+        "As per Chandrashekar's request, the following Phase 1 members are ready to be part of the association: (1) Dinesh KR – Villa 148 – President; (2) Siva Reddy – Villa 157 – Treasurer; (3) Aravind – Villa 166 – Core Committee Member; (4) Vignesh – Villa 93 – Core Committee Member; (5) Sagayaraj – Villa 67 – Core Committee Member; (6) Srinivasan – Villa 68 – Core Committee Member. A common association email has been created: aaranya.owners.association@gmail.com",
         "Amenities to be Provided: Outdoor movie theatre, Sauna (Male & Female), Clubhouse terrace amenities, Grocery store, Clinic, Biometric access to clubhouse.",
         "Amenities Requiring Immediate Repair/Construction: Hammocks, Outdoor gym equipment, OSR 1 broken lights, All roads and manhole repairs (including entrance road damaged by heavy construction vehicles — evidence shared earlier), Shobha RO water overflow, OSR 1 entrance, Pond maintenance, Basketball court.",
         "Security Concerns – Require Immediate Resolution: (1) Close all compound wall openings — current sections have zero security. (2) Construction worker access control — no gate pass system, workers climbing walls (video attached). This contradicts the 'secured community' commitment. (3) No restriction on heavy vehicle movement — serious safety hazard.",
@@ -176,24 +176,21 @@
     }
   ],
   "people": {
+    "tvsLabel": "TVS Emerald (Current Representatives)",
     "tvs": [
       { "name": "Sriram Iyer", "role": "Director & CEO, TVS Emerald" },
       { "name": "Rahul Gupta", "role": "CSMO (Chief Sales & Marketing Officer)" },
       { "name": "Sahil Suhas Chavan", "role": "CRM Head" },
-      { "name": "Anirudh G", "role": "CRM" },
-      { "name": "Chandrasekaran E", "role": "Operations-CRM" },
-      { "name": "Sakthivel M", "role": "Operations" },
-      { "name": "Suganya Gokul", "role": "CRM Associations" },
-      { "name": "Prabanjani S", "role": "CRM" }
+      { "name": "Suganya Gokul", "role": "CRM Associations" }
     ],
+    "associationLabel": "Aaranya Owners Association — Core Committee Members & Owners",
     "association": [
-      { "name": "Sukabrammam", "villa": "Villa 147", "role": "President" },
-      { "name": "Dinesh KR", "villa": "Villa 148", "role": "Secretary (Primary Contact)" },
+      { "name": "Dinesh KR", "villa": "Villa 148", "role": "President (Primary Contact)" },
       { "name": "Siva Reddy", "villa": "Villa 157", "role": "Treasurer" },
-      { "name": "Aravind", "villa": "Villa 166", "role": "Joint Secretary / Committee Member" },
-      { "name": "Vicky Vignesh", "villa": "Villa 93", "role": "Committee Member" },
-      { "name": "Sagayaraj", "villa": "Villa 67", "role": "Committee Member" },
-      { "name": "R Srinivasan", "villa": "Villa 68", "role": "Committee Member" }
+      { "name": "Aravind", "villa": "Villa 166", "role": "Core Committee Member" },
+      { "name": "Vicky Vignesh", "villa": "Villa 93", "role": "Core Committee Member" },
+      { "name": "Sagayaraj", "villa": "Villa 67", "role": "Core Committee Member" },
+      { "name": "R Srinivasan", "villa": "Villa 68", "role": "Core Committee Member" }
     ]
   }
 }

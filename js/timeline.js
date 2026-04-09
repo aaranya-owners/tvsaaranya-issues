@@ -133,7 +133,12 @@ function renderTimeline(data) {
 function renderPeople(people) {
   const tvsList = document.getElementById('tvs-people-list');
   const assocList = document.getElementById('assoc-people-list');
+  const tvsHeading = document.getElementById('tvs-people-heading');
+  const assocHeading = document.getElementById('assoc-people-heading');
   if (!tvsList || !assocList) return;
+
+  if (tvsHeading) tvsHeading.textContent = people.tvsLabel || 'TVS Emerald';
+  if (assocHeading) assocHeading.textContent = people.associationLabel || 'Aaranya Owners Association';
 
   tvsList.innerHTML = people.tvs.map(p =>
     `<li><strong>${escapeHtml(p.name)}</strong> — <em>${escapeHtml(p.role)}</em></li>`
