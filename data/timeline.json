@@ -66,16 +66,15 @@
       "subject": "Immediate Attention Required – TVS Aaranya Community Concerns & Meeting Request",
       "direction": "residents-to-tvs",
       "directionLabel": "Association → TVS",
-      "from": "Aaranya Owners Association (Dinesh KR, Villa 148 — President)",
-      "to": "Anirudh G (CRM), Sakthivel M (Operations), CRM Aaranya",
+      "from": "Aaranya Owners Association (Dinesh KR, Villa 148)",
+      "to": "Anirudh G, Sakthivel M, CRM Aaranya",
       "cc": "Suga, Dinesh KR, Siva Reddy, Aravind, Vicky Vignesh, Sagayaraj, R Srinivasan",
-      "milestone": true,
-      "milestoneNote": "Association formally established. Dinesh KR is President and primary point of contact.",
-      "tags": ["association-formed", "formal-notice", "amenities", "security", "meeting-request"],
-      "preview": "Association formally established. Core committee: Dinesh KR (President), Siva Reddy (Treasurer) and 4 committee members. Comprehensive list of pending issues submitted with request for urgent meeting.",
+      "milestone": false,
+      "tags": ["formal-notice", "amenities", "security", "meeting-request"],
+      "preview": "Aaranya Owners Association formally writes to TVS with a comprehensive list of pending issues and requests an urgent meeting. Dinesh KR designated as single point of contact. Common association email created.",
       "bodyParagraphs": [
-        "Hi Anirudh, As discussed, I will be the single point of contact from the TVS side for all community-related matters.",
-        "As per Chandrashekar's request, the following Phase 1 members are ready to be part of the association: (1) Dinesh KR – Villa 148 – President; (2) Siva Reddy – Villa 157 – Treasurer; (3) Aravind – Villa 166 – Core Committee Member; (4) Vignesh – Villa 93 – Core Committee Member; (5) Sagayaraj – Villa 67 – Core Committee Member; (6) Srinivasan – Villa 68 – Core Committee Member. A common association email has been created: aaranya.owners.association@gmail.com",
+        "Hi Anirudh, As discussed, I will be the single point of contact from the TVS side for all community-related matters. A common association email has been created: aaranya.owners.association@gmail.com",
+        "Phase 1 members ready to be part of the association: Dinesh KR (Villa 148), Siva Reddy (Villa 157), Aravind (Villa 166), Vignesh (Villa 93), Sagayaraj (Villa 67), Srinivasan (Villa 68).",
         "Amenities to be Provided: Outdoor movie theatre, Sauna (Male & Female), Clubhouse terrace amenities, Grocery store, Clinic, Biometric access to clubhouse.",
         "Amenities Requiring Immediate Repair/Construction: Hammocks, Outdoor gym equipment, OSR 1 broken lights, All roads and manhole repairs (including entrance road damaged by heavy construction vehicles — evidence shared earlier), Shobha RO water overflow, OSR 1 entrance, Pond maintenance, Basketball court.",
         "Security Concerns – Require Immediate Resolution: (1) Close all compound wall openings — current sections have zero security. (2) Construction worker access control — no gate pass system, workers climbing walls (video attached). This contradicts the 'secured community' commitment. (3) No restriction on heavy vehicle movement — serious safety hazard.",
@@ -92,7 +91,7 @@
         "assets/images/timeline/email3_004.jpeg"
       ],
       "escalationLevel": 2,
-      "escalationNote": "Formal association email now in use. CCs include full committee. Still addressed to field CRM."
+      "escalationNote": "Formal association email now in use. Still addressed to field CRM."
     },
     {
       "id": "email-4",
@@ -132,9 +131,8 @@
       "from": "Rahul Gupta (CSMO, TVS Emerald)",
       "to": "Aaranya Owners Association",
       "cc": "Sahil Suhas Chavan (CRM Head), Prabanjani S (CRM), Suganya Gokul (CRM)",
-      "milestone": true,
-      "milestoneNote": "40+ owners physically visited TVS corporate office. CSMO Rahul Gupta personally acknowledged all issues. First time TVS leadership directly engaged in writing.",
-      "tags": ["corporate-office-visit", "rahul-gupta", "milestone", "40-owners"],
+      "milestone": false,
+      "tags": ["corporate-office-visit", "rahul-gupta", "40-owners"],
       "preview": "Today, 40+ owners visited our corporate office. We have noted all the issues highlighted during the discussion. Will revert with a plan by April 2, 2026 and confirm a date for a joint meeting.",
       "bodyParagraphs": [
         "Dear Members of Aaranya Association, Today, 40+ owners visited our corporate office. We have noted all the issues highlighted during the discussion, and the same has been attached for your reference.",
@@ -160,8 +158,7 @@
       "from": "Suganya Gokul (CRM Associations, TVS Emerald)",
       "to": "Aaranya Owners Association",
       "cc": "Sahil Suhas Chavan (CRM Head), CEO EscalationDesk, Rahul Gupta (CSMO), Prabanjani S (CRM), Suganya Gokul (CRM)",
-      "milestone": true,
-      "milestoneNote": "Most detailed TVS response to date. 29-point table. Meeting confirmed for Apr 11, 2026 at Aaranya Clubhouse with Rahul Gupta.",
+      "milestone": false,
       "tags": ["formal-response", "29-points", "tvs-response", "meeting-confirmed", "apr-11"],
       "preview": "Point-wise response to 29 concerns raised on Mar 28, 2026. Meeting confirmed for April 11, 2026 at Aaranya Clubhouse with Rahul Gupta. Several items marked 'Not Within Scope' including swimming pool barricading, OSR gate retrofit, and road damage from construction vehicles.",
       "bodyParagraphs": [
@@ -184,12 +181,7 @@
       { "name": "Suganya Gokul", "role": "CRM Associations" }
     ],
     "associationLabel": "Aaranya Owners Association",
-    "associationSuffix": "& Aaranya Core Committee Members and Owners",
-    "association": [
-      { "name": "Dinesh KR", "villa": "Villa 148", "role": "President (Primary Contact)" },
-      { "name": "Siva Reddy", "villa": "Villa 157", "role": "Treasurer" },
-      { "name": "Vicky Vignesh", "villa": "Villa 93", "role": "Core Committee Member" },
-      { "name": "Sagayaraj", "villa": "Villa 67", "role": "Core Committee Member" }
-    ]
+    "associationSuffix": "Aaranya Core Committee Members and Owners",
+    "association": []
   }
 }

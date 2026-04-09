@@ -124,18 +124,18 @@
     },
     {
       "id": 9,
-      "title": "Swimming Pool Barricading — 6 Feet Height Required",
+      "title": "Swimming Pool Barricading — 8 Feet Height Required",
       "shortTitle": "Pool Barricading",
       "category": "Amenities",
-      "problem": "Barricading was requested for 6 feet height, citing privacy issues for swimmers — especially women. The current height is inadequate and dogs are even able to jump through and access the swimming pool water for drinking.",
-      "fix": "6 feet barricading as agreed during the last meeting.",
+      "problem": "Barricading was requested for 8 feet height, citing privacy issues for swimmers — especially women. The current height is inadequate and dogs are even able to jump through and access the swimming pool water for drinking.",
+      "fix": "8 feet barricading as agreed during the last meeting.",
       "images": ["assets/images/issues/image17.jpg", "assets/images/issues/image18.jpg"],
       "trackerRef": 16,
       "tvsResponse": "TVS Emerald has already barricaded the swimming pool, further enhancements shall fall beyond our scope",
       "tvsTimeline": "Not Within Scope",
       "tvsStatus": "rejected",
       "reversalFlag": true,
-      "reversalNote": "REVERSAL ALERT: The association's own document explicitly states '6 feet barricading as agreed during last meet.' TVS is now claiming 'further enhancements are beyond our scope' — directly contradicting a commitment made in a prior meeting.",
+      "reversalNote": "REVERSAL ALERT: The association requested 8 feet barricading as agreed during the last meeting. TVS is now claiming 'further enhancements are beyond our scope' — directly contradicting the commitment made in a prior meeting.",
       "raisedSince": "Jul 2025"
     },
     {

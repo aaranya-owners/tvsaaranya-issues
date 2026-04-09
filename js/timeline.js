@@ -144,13 +144,18 @@ function renderPeople(people) {
     `<li><strong>${escapeHtml(p.name)}</strong> — <em>${escapeHtml(p.role)}</em></li>`
   ).join('');
 
-  assocList.innerHTML = people.association.map(p =>
-    `<li><strong>${escapeHtml(p.name)}</strong>, ${escapeHtml(p.villa)} — <em>${escapeHtml(p.role)}</em></li>`
-  ).join('');
+  if (people.association && people.association.length > 0) {
+    assocList.innerHTML = people.association.map(p =>
+      `<li><strong>${escapeHtml(p.name)}</strong>${p.villa ? ', ' + escapeHtml(p.villa) : ''}</li>`
+    ).join('');
+  }
 
-  if (people.associationSuffix) {
-    const suffix = document.getElementById('assoc-people-suffix');
-    if (suffix) suffix.textContent = people.associationSuffix;
+  const suffix = document.getElementById('assoc-people-suffix');
+  if (suffix && people.associationSuffix) {
+    suffix.textContent = people.associationSuffix;
+    suffix.style.fontStyle = 'normal';
+    suffix.style.fontWeight = '600';
+    suffix.style.color = 'var(--text)';
   }
 }
 
