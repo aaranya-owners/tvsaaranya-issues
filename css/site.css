@@ -239,7 +239,10 @@ h1, h2, h3 { line-height: 1.25; }
 .site-footer { background: var(--navy); color: #cbd5e0; font-size: 0.82rem; }
 .footer-inner { max-width: 1160px; margin: 0 auto; padding: 1.5rem 1.25rem; display: grid; gap: 0.5rem; }
 .site-footer a { color: #90cdf4; }
-.footer-sign { color: #fff; font-weight: 600; }
+.footer-owner { color: #fff; border-top: 1px solid rgba(255,255,255,0.15); padding-top: 0.6rem; margin-top: 0.25rem; }
+.about p { margin: 0 0 0.75rem; }
+.about-owner { border-left: 4px solid var(--navy); }
+.about-copy { font-weight: 700; color: var(--navy); margin-top: 1rem !important; }
 
 /* ── Responsive ── */
 @media (max-width: 900px) {

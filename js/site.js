@@ -470,7 +470,7 @@
   // ══════════════════════════════════════════════════
   // ROUTER
   // ══════════════════════════════════════════════════
-  const VIEWS = ['overview', 'handover', 'tracker', 'resolved'];
+  const VIEWS = ['overview', 'handover', 'tracker', 'resolved', 'about'];
   let firstRoute = true;
   function route() {
     setTimeout(() => { firstRoute = false; }, 0);
